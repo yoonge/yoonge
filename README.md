@@ -14,6 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+Node  Koa2  Express  Redux  Hox  Vite  Vue  Vuex  Vux  pnpm  Bun  Django  Flask  Axum  MySQL  MongoDB  Mongoose  SQLite
+WebStorm  HBuilderX  Xcode  Git  Github  Gitlab  Gitee  Tauri  Taro  HTML5  CSS3  Bootstrap  Miniprogram  Dart  Flutter
+Photoshop  Sketch  Figma  Javascript  MacOS  WSL  Pug  Bruno  Postman  Ant-Design  Ant-Design-Pro  ElementUI
+
 ![Flutter](https://img.shields.io/badge/Flutter-4ad1fd?style=for-the-badge&logo=flutter&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336792?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Photoshop](https://img.shields.io/badge/Photoshop-001e36?style=for-the-badge&logo=adobe&logoColor=white)
